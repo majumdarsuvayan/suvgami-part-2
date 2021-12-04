@@ -1,0 +1,41 @@
+body {
+
+   
+    text-align: center;
+}
+
+
+
+#welcome {
+
+   
+   
+    color: #FFFFFF;
+   
+  
+    bottom: 0;
+       background: linear-gradient(#60ebeb 0%, #27ae60 100%);
+    display: table;
+    width: 100%;
+    height: 100%;
+    z-index: 9;
+    
+}
+.article:hover {
+    color:fuchsia;
+    font-size:20px;
+#planes {
+background: firebrick;
+    }
+#Easy origami {
+background-color: chartreuse;
+    }
+# flowers {
+background-color: crimson;
+    }
+    #animals {
+background-color: blueviolet;
+    }
+    #other origami websites {
+background-color: darkgoldenrod;
+    }
